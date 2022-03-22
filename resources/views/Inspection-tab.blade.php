@@ -1,0 +1,6 @@
+@include('inspection.inspection-section')
+@include('inspection.sub-step-section')
+@include('inspection.add-inspection-section')
+@include('inspection.edit-inspection-section')
+@include('inspection.add-substep-section')
+@include('inspection.edit-substep-section')
